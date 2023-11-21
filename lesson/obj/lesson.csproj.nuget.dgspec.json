@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson/lesson.csproj": {}
+    "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson.csproj": {}
   },
   "projects": {
-    "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson/lesson.csproj": {
+    "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson/lesson.csproj",
+        "projectUniqueName": "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson.csproj",
         "projectName": "lesson",
-        "projectPath": "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson/lesson.csproj",
+        "projectPath": "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson.csproj",
         "packagesPath": "/Users/collins/.nuget/packages/",
-        "outputPath": "/Users/collins/Desktop/digitalocean_lesson/lesson/lesson/obj/",
+        "outputPath": "/Users/collins/Desktop/digitalocean_lesson/lesson/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/collins/.nuget/NuGet/NuGet.Config"
